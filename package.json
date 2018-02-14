@@ -1,0 +1,18 @@
+{
+  "name": "inline-styles2css",
+  "version": "1.0.0",
+  "description": "convert inline html styles to a css file ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery"
+  ],
+  "author": "ben eaves",
+  "license": "MIT",
+  "dependencies": {
+    "node-static": "^0.7.10",
+    "chalk": "^2.3.0"
+  }
+}
