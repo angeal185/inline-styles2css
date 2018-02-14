@@ -45,7 +45,7 @@ function toast(i){
 }
 
 
-$.getJSON('/app/data/data.json', function(data) {
+$.getJSON('app/data/data.json', function(data) {
 
 
 $("body").append('<div class="toast" id="toast"></div>');
